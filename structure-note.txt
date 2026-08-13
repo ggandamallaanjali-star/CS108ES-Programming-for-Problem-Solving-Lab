@@ -1,0 +1,1 @@
+The supplied R22 syllabus mentions structures in the course outcomes, but the listed practice programs do not specify a separate structure experiment. No extra C program is added here so the repository remains faithful to the listed experiments.
